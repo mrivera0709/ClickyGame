@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^1.1.0",
+    "homepage": "^1.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-flip-move": "^2.10.1",
@@ -15,5 +16,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "homepage": "https://mrivera0709.github.io/ClickyGame/"
 }
