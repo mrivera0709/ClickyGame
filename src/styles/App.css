@@ -2,7 +2,6 @@
   text-align: center;
 }
 
-/* Header where navbar is contained */
 .App-header {
   background-color: black;
   height: 80px;
@@ -10,17 +9,13 @@
   color: white;
 }
 
-/* Game instructions */
 .App-intro {
   font-size: large;
 }
 
 .game-squares {
-  /* overflow: hidden; */
   position: relative;
-
   float: left;
-
   margin:20px;
 }
 

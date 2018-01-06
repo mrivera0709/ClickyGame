@@ -8,7 +8,6 @@
 
 .App-title {
   font-size: 3.5em;
-  /* positions title within default header for now */
   position: relative;
   bottom: 100%;
 }

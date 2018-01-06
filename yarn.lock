@@ -5176,6 +5176,10 @@ react-error-overlay@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-3.0.0.tgz#c2bc8f4d91f1375b3dad6d75265d51cd5eeaf655"
 
+react-flip-move@^2.10.1:
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/react-flip-move/-/react-flip-move-2.10.1.tgz#a641ad897cecff2b81520062cebfec286cf11261"
+
 react-materialize@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/react-materialize/-/react-materialize-1.1.2.tgz#f6a4872c224ac9c9718ff49c77786382484cc1cb"
