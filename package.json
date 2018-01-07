@@ -19,6 +19,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "homepage": "https://mrivera0709.github.io/ClickyGame/"
+  }, 
+  "homepage": "https://mrivera0709.github.io/ClickyGame"
 }
